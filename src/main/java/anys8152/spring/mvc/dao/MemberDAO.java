@@ -5,7 +5,6 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 import siestageek.spring.mvc.vo.MemberVO;
 
-import java.sql.*;
 import java.util.ArrayList;
 
 @Repository("mdao")
