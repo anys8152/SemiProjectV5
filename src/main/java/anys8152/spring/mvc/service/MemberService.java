@@ -2,8 +2,8 @@ package anys8152.spring.mvc.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import siestageek.spring.mvc.dao.MemberDAO;
-import siestageek.spring.mvc.vo.MemberVO;
+import anys8152.spring.mvc.dao.MemberDAO;
+import anys8152.spring.mvc.vo.MemberVO;
 
 @Service("msrv")
 public class MemberService {

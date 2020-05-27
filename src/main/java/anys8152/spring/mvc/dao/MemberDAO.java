@@ -1,10 +1,11 @@
 package anys8152.spring.mvc.dao;
 
+import anys8152.spring.mvc.vo.MemberVO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
-import siestageek.spring.mvc.vo.MemberVO;
 
+import java.sql.Types;
 import java.util.ArrayList;
 
 @Repository("mdao")
