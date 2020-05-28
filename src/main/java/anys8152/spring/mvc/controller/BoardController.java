@@ -5,8 +5,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
-import siestageek.spring.mvc.service.BoardService;
-import siestageek.spring.mvc.vo.BoardVO;
+import anys8152.spring.mvc.service.BoardService;
+import anys8152.spring.mvc.vo.BoardVO;
 
 @Controller
 public class BoardController {

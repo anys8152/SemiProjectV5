@@ -2,8 +2,8 @@ package anys8152.spring.mvc.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import siestageek.spring.mvc.dao.BoardDAO;
-import siestageek.spring.mvc.vo.BoardVO;
+import anys8152.spring.mvc.dao.BoardDAO;
+import anys8152.spring.mvc.vo.BoardVO;
 
 import java.util.ArrayList;
 

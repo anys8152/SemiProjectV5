@@ -37,3 +37,9 @@ $('#updbd').on('click', function () {
     location.href =
         '/board/update.do?bno=${param.bno}';
 }); // 수정하기
+
+
+$('#btn').on('click', function () {
+    location.href =
+        '../'
+})

@@ -3,7 +3,7 @@ package anys8152.spring.mvc.dao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
-import siestageek.spring.mvc.vo.BoardVO;
+import anys8152.spring.mvc.vo.BoardVO;
 
 import java.util.ArrayList;
 
